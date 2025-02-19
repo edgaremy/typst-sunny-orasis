@@ -16,15 +16,15 @@
   affiliations: ("Mon Institut", "Son Institut"),
   emails: ("Mon adresse électronique",),
   
-  abstract_fr: [
+  abstract-fr: [
     Ceci est mon résumé pour les journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS). Il doit occuper une dizaine de lignes.
   ],
-  keywords_fr: [Exemple type, format, modèle.],
+  keywords-fr: [Exemple type, format, modèle.],
   
-  abstract_en: [
+  abstract-en: [
     This is the English version of the abstract. Exactly as in French it must be short. It must exhibit the same content...
   ],
-  keywords_en: [Example, model, template.],
+  keywords-en: [Example, model, template.],
 )
 
 = Introduction
