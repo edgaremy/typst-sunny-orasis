@@ -7,10 +7,10 @@
   authors: none,
   affiliations: none,
   emails: none,
-  abstract_fr: none,
-  keywords_fr: none,
-  abstract_en: none,
-  keywords_en: none,
+  abstract-fr: none,
+  keywords-fr: none,
+  abstract-en: none,
+  keywords-en: none,
   body,
 ) = {
 
@@ -75,16 +75,16 @@
 
   // Abstracts and Keywords Sections.
   heading(level: 2, "Résumé")
-  text(lang: "fr", style: "italic")[#abstract_fr]
+  text(lang: "fr", style: "italic")[#abstract-fr]
   
   heading(level: 2, "Mots Clef")
-  text(lang: "fr")[#keywords_fr]
+  text(lang: "fr")[#keywords-fr]
   
   heading(level: 2, "Abstract")
-  text(lang: "en", style: "italic")[#abstract_en]
+  text(lang: "en", style: "italic")[#abstract-en]
   
   heading(level: 2, "Keywords")
-  text(lang: "en")[#keywords_en]
+  text(lang: "en")[#keywords-en]
 
   // Body of the article.
   set heading(numbering: "1.1   ")
