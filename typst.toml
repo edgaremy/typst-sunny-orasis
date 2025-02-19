@@ -2,7 +2,7 @@
 name = "sunny-orasis"
 version = "0.1.0"
 compiler = "0.12.0"
-entrypoint = "main.typ"
+entrypoint = "lib.typ"
 repository = "https://github.com/edgaremy/typst-sunny-orasis"
 authors = ["Edgar Remy <@edgaremy>"]
 license = "MIT-0"
