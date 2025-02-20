@@ -14,7 +14,7 @@
   body,
 ) = {
 
-  let document_font = "TeX Gyre Termes" // almost identical to Times-Roman (free alternative)
+  let document_font = "TeX Gyre Termes" // almost identical to Times-Roman (free alternative) but if you have Times-Roman available locally, you can select it here)
   
   set page(
     paper: "a4",

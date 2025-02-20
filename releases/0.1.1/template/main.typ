@@ -2,7 +2,7 @@
 // Sans garanties. 
 // Deux colonnes, pas de numérotation et 10 points.
 
-#import "../orasis.typ": orasis
+#import "@preview/sunny-orasis:0.1.1": orasis
 
 #show: orasis.with(
   
