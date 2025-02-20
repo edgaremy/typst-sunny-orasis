@@ -1,11 +1,10 @@
-# sunny-orasis
+# ☀️ sunny-orasis 🌴
 A paper template made for the French national conference **ORASIS**.
 
-The template was made following the official author guidelines, while looking as close as possible to the official LaTeX template.
+The template was made following the official author guidelines, while looking as close as possible like the official LaTeX template.
 This should also work for the **RFIAP** and **CAP** conferences.
 
 ## Usage
-
 This package is meant to be used as a starting template, with the included `template/main.typ`.
 
 However, you can also import the template using the following line:
@@ -40,5 +39,9 @@ and then create the document in your main file:
 And that's it ! You can then simply type your paragraphs using the classic Typst syntax for headings etc.
 
 ## Dependencies
-
 This template was tested with Typst 0.12.0
+
+## Going further
+If you want to make deeper changes, specifically to the Title and Authors formatting, I strongly recommand to copy the entire template yourself, instead of importing it.
+Doing it this way, you will still have access to the `lib.typ` file, allowing you to change anything to your liking.
+
