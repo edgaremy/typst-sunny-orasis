@@ -26,7 +26,7 @@
   ],
   keywords-en: [Example, model, template.],
 
-  document-fonts: ("Times-Roman", "TeX Gyre Termes",), // la seconde police est une alternative libre et preque identique à Times-Roman)
+  document-fonts: ("Times-Roman", "TeX Gyre Termes",), // la seconde police est une alternative libre et presque identique à Times-Roman)
 )
 
 = Introduction

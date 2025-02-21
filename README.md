@@ -35,7 +35,7 @@ and then create the document in your main file:
   ],
   keywords_en: [Example, model, template.],
 
-  document-fonts: ("Times-Roman", "TeX Gyre Termes",), // la seconde police est une alternative libre et preque identique à Times-Roman)
+  document-fonts: ("Times-Roman", "TeX Gyre Termes",), // la seconde police est une alternative libre et presque identique à Times-Roman)
 )
 ```
 And that's it ! You can then simply type your paragraphs using the classic Typst syntax for headings etc.
