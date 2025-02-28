@@ -44,6 +44,6 @@ And that's it ! You can then simply type your paragraphs using the classic Typst
 This template was tested with Typst 0.12.0
 
 ## Going further
-If you want to make deeper changes, specifically to the Title and Authors formatting, I strongly recommand to copy the entire template yourself, instead of importing it.
+If you want to make deeper changes, specifically to the Title and Authors formatting, I strongly recommend to copy the entire template yourself, instead of importing it.
 Doing it this way, you will still have access to the `lib.typ` file, allowing you to change anything to your liking.
 
